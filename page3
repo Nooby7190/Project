@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>WEBSITEEAI</title>
+    </head>
+    <body>
+        <h1>WebsiteAI</h1>
+        <table border="1">
+            <tr>
+                <td colspan="3">
+                    <img src="Untitled design.jpg" width="1920" height="450">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="index.html">
+                        <button style="height:150px;width:640px"><b>Button 1</b></button>
+                    </a>
+                </td>
+                <td>
+                    <a href="page2.html">
+                        <button style="height:150px;width:640px"><b>Button 2</b></button>
+                    </a>
+                </td>
+                <td>
+                    <a href="page3.html">
+                        <button style="height:150px;width:640px"><b>Button 3</b></button>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                    <h1><b>Page 3</b></h1>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
